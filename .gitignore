@@ -1,4 +1,5 @@
 *.xml
+*.class
 .idea/*.xml
 # Created by https://www.gitignore.io/api/macos,intellij+iml
 
